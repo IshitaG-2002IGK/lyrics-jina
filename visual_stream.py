@@ -19,7 +19,7 @@ def load_data(nrows):
 
 
 songs = load_data(30)
-st.subheader("Songs Visualization")
+st.subheader("SIP SIP HURRAYYYY!!")
 st.write(songs)
 
 st.bar_chart(songs["Song"])
