@@ -4,7 +4,7 @@ import numpy as np
 
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
-st.title("Musina")
+st.title("Jinica")
 
 @st.cache
 def load_data(nrows):
