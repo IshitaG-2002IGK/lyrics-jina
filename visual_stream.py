@@ -8,7 +8,7 @@ st.title("Jinica")
 
 @st.cache
 def load_data(nrows):
-    data = pd.read_csv('lyrics-JINA - Sheet1.csv', nrows=nrows)
+    data = pd.read_csv('lyrics-JINA.csv', nrows=nrows)
     df = pd.read_csv('df.csv', nrows=nrows)
  
     return data
