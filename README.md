@@ -1,5 +1,5 @@
 
-<h1 align="center">  JINICA </h1><img align='right' src = "https://media0.giphy.com/media/Ph6YGeB76j0QsPzU0G/giphy.gif?cid=ecf05e47vlhly88gogsz3uem5tdxp064sg1ho14ne9ad6nao&rid=giphy.gif&ct=s"  height="120" alt="Jahnavi Darbhamulla">
+<h1 align="center">  JINICA </h1><img align='right' src = "https://i.pinimg.com/originals/dd/6d/fe/dd6dfe62c5d2cddaad50ba1c9480402c.gif"  height="120" alt="">
 
 <br/>
 
@@ -49,7 +49,7 @@ Ishita Gopalakrishnan
 
 <td >
 
-Ponshriharini 
+Ponshriharini V
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/75039501?v=4"  height="120" alt="Kruthi M">
