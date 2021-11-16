@@ -4,26 +4,55 @@
 <br/>
 
 ## What is the Project about ?
-- [ ]                                                                  
-- [ ] 
-- [ ] 
-- [ ]  
+- [ ] The project is based on matching a query word with the lyrics of a song.                                                               
+- [ ] Finding the best possible match for a word in the lyrics of a song, which can be helpful while playing "Song Association Game" 
+-
+## Why did we create it in the first place ?
 
-## Why did we create it in the first place ?
-## Why did we create it in the first place ?
+-[ ] We're all music lovers, and jam to any given song playing
+-[ ] We participated in the collaborated event with JinaAI X Featurepreneur, as we were genuinely interested in learning more about JinaAI, and wanted to explore different libraries in ML.
 
 ## How did we make the project ?
 
+-[ ] We're all music lovers, and jam to any given song playing
+-[ ] 
 
 ## Instructions to run it locally:
-- ```  ``` 
-- ```  ```
+### WE'LL FIND THE SONG USING THE WORDS YOU GIVE US!!  
+
+To create and activate new JINA conda environment:  
+```
+conda create --name JINA    
+conda activate JINA   
+```
+  
+    
+Install requirements     
+```
+pip install -r requirements.txt  
+conda install -c conda-forge jupyterlab  
+```    
+  
+    
+To run streamlit  
+```
+streamlit run visual_stream.py
+```  
+
+To view the graph
+```
+python density_contour.py
+python bar_graph.py
+```
 
 ## Tech Stack used
 ### Here are a few :
-- [ ]   
-- [ ]   
-- [ ]   
+- [ ] Jina AI
+- [ ] Python
+- [ ] Streamlit
+- [ ] Plotly
+- [ ] ML libraries : pandas, numpy, pytorch etc
+
 
 
 ## Contributors
