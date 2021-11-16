@@ -88,6 +88,6 @@ Sanjjushri Varshini
   
 
 <p align="center">
-	Made with :coffee: and :music:
+	Made with :coffee: and :heart:
 </p>
 
