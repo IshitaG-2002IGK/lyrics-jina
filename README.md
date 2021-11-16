@@ -1,0 +1,93 @@
+
+<h1 align="center">  JINICA </h1><img align='right' src = "https://media0.giphy.com/media/Ph6YGeB76j0QsPzU0G/giphy.gif?cid=ecf05e47vlhly88gogsz3uem5tdxp064sg1ho14ne9ad6nao&rid=giphy.gif&ct=s"  height="120" alt="Jahnavi Darbhamulla">
+
+<br/>
+
+## What is the Project about ?
+- [ ]  40-80% of medical information provided by healthcare practitioners is forgotten immediately.                                                                     
+- [ ]  The greater the amount of information presented, the lower the proportion correctly recalled.Furthermore, almost half of the information that is remembered is incorrect.
+- [ ]  Clearly, memory for medical information is a prerequisite for good adherence to recommended treatment.
+- [ ]  So we decided to create MedNet that can help you stay connected to your loved one's health and medical care. For any queries please do contact us.
+
+## Why did we create it in the first place ?
+## Why did we create it in the first place ?
+
+## How did we make the project ?
+
+
+## Instructions to run it locally:
+- ```npm install``` 
+- ```npm start```
+
+## Tech Stack used
+### Here are a few :
+- [ ]   
+- [ ]   
+- [ ]   
+
+
+## Contributors
+<table>
+<tr align="center">
+
+<td >
+
+Ishita Gopalakrishnan
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQF2uU4J13-aGg/profile-displayphoto-shrink_400_400/0/1617816011549?e=1642636800&v=beta&t=ENNjmQh9N8P76acrj247yOo5a8BwifWbS4NBoVDRpxg"  height="120" alt="Kruthi M">
+</p>
+<p align="center">
+<a href = "https://github.com/IshitaG-2002IGK"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ishita-gopalakrishnan-92949320b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<br/>
+
+<td >
+
+Ponshriharini 
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75039501?v=4"  height="120" alt="Kruthi M">
+</p>
+<p align="center">
+<a href = "https://github.com/harini-spec"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ponshriharini-v-35ba5420a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<br/>
+<td >
+
+Sanjjushri Varshini
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/67419416?v=4"  height="120" alt="Kruthi M">
+</p>
+<p align="center">
+<a href = "https://github.com/Sanjjushri"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/sanjjushri-varshini-r-aa33551ba/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<br/>
+
+
+
+</tr>
+</table>
+
+  
+
+<p align="center">
+	Made with :coffee: and :heart:
+</p>
+
