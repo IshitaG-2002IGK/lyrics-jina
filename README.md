@@ -4,10 +4,10 @@
 <br/>
 
 ## What is the Project about ?
-- [ ]  40-80% of medical information provided by healthcare practitioners is forgotten immediately.                                                                     
-- [ ]  The greater the amount of information presented, the lower the proportion correctly recalled.Furthermore, almost half of the information that is remembered is incorrect.
-- [ ]  Clearly, memory for medical information is a prerequisite for good adherence to recommended treatment.
-- [ ]  So we decided to create MedNet that can help you stay connected to your loved one's health and medical care. For any queries please do contact us.
+- [ ]                                                                  
+- [ ] 
+- [ ] 
+- [ ]  
 
 ## Why did we create it in the first place ?
 ## Why did we create it in the first place ?
@@ -16,8 +16,8 @@
 
 
 ## Instructions to run it locally:
-- ```npm install``` 
-- ```npm start```
+- ```  ``` 
+- ```  ```
 
 ## Tech Stack used
 ### Here are a few :
@@ -88,6 +88,6 @@ Sanjjushri Varshini
   
 
 <p align="center">
-	Made with :coffee: and :heart:
+	Made with :coffee: and :music:
 </p>
 
