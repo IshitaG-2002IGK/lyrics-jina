@@ -8,19 +8,19 @@
 - [ ] Jinica -- Jina + Musica (En espagnol)
 - [ ] The project is based on matching a query word with the lyrics of a song.                                                       
 - [ ] Finding the best possible match for a word in the lyrics of a song, which can be helpful while playing "Song Association Game" 
--
+
 ## Why did we create it in the first place ?
 
--[ ] We're all music lovers, and jam to any given song playing
--[ ] We participated in the collaborated event with JinaAI X Featurepreneur, as we were genuinely interested in learning more about JinaAI, and wanted to explore different libraries in ML.
--[ ] And... Lastly we're all music lovers, and would jam to any given song playing anywhere at anytime. So we wanted to focus the project primarily on "music" and finding/matching the words to the lyrics.
+- [ ] We're all music lovers, and jam to any given song playing
+- [ ] We participated in the collaborated event with JinaAI X Featurepreneur, as we were genuinely interested  		in learning more about JinaAI, and wanted to explore different libraries in ML.
+- [ ] And lastly we're all music lovers, and would jam to any given song playing anywhere at anytime. So we wanted to focus the project primarily on "music" and finding/matching the words to the lyrics.
 
 
 ## How did we make the project ?
 
--[ ] We built our project using JinaAI (Document, Flow, Executor).
--[ ] Made some graphs - Bargraphs, Density-Contour charts for visualizing the data that we manually built.
--[ ] We've attached a video for a better explanation regarding our project.
+- [ ] We built our project using JinaAI (Document, Flow, Executor).
+- [ ] Made some graphs - Bargraphs, Density-Contour charts for visualizing the data that we manually built.
+- [ ] We've attached a video for a better explanation regarding our project.
 
 ## Preview
 
