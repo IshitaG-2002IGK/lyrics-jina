@@ -72,7 +72,7 @@ python bar_graph.py
 Ishita Gopalakrishnan
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQF2uU4J13-aGg/profile-displayphoto-shrink_400_400/0/1617816011549?e=1642636800&v=beta&t=ENNjmQh9N8P76acrj247yOo5a8BwifWbS4NBoVDRpxg"  height="120" alt="Kruthi M">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQF2uU4J13-aGg/profile-displayphoto-shrink_400_400/0/1617816011549?e=1642636800&v=beta&t=ENNjmQh9N8P76acrj247yOo5a8BwifWbS4NBoVDRpxg"  height="120" alt="Ishita G">
 </p>
 <p align="center">
 <a href = "https://github.com/IshitaG-2002IGK"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
